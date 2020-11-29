@@ -16,3 +16,7 @@ HSE second grade course about threads
 Используются инструменты стандартной библиотеки C++.
 
 Источик информации: плейлист на youtube https://www.youtube.com/playlist?list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0.
+
+## homework 2
+
+Все то же самое, что и homework 1, только использована OpenMp + выведены номера потоков. Находится в папке hw2. Тесты специально взяты те же самые. Скрины в папке screens.
